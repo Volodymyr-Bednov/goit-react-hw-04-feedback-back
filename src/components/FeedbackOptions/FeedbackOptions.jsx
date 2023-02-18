@@ -12,7 +12,6 @@ export const FeedbackOptions = ({data:{setCommentsGood, setCommentsNeutral, setC
       break;
       default: console.log('default');
     }
-
   }
   return (
     <div>
